@@ -7,7 +7,7 @@ Primeiro, você precisa clonar o repositório para sua máquina local. Abra o te
 git clone https://github.com/jamilematos/ProjetoDePOO
 
 2. Depois de clonar o repositório, entre no diretório do projeto com o comando:
-cd "C:\Users\jamil\OneDrive\Documentos\veiculo"
+cd veiculo
 
 3. Instale as dependências (se houver)
 Se o seu projeto depender de pacotes externos (por exemplo, requirements.txt), você deve instalar as dependências. Caso contrário, você pode pular essa etapa.
