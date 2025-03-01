@@ -34,3 +34,5 @@ O carro Uno está freando!
 
 5. Personalize ou modifique (opcional)
 Se você quiser adicionar novos veículos ou modificar as características dos existentes, basta alterar as classes no código. As classes Moto, Carro e Barco estão implementadas em arquivos .py e podem ser personalizadas conforme necessário.
+
+A versão de python usada: 3.13
